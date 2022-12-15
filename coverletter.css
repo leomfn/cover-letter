@@ -1,0 +1,55 @@
+@page {
+    size: A4;
+    font-family: sans-serif;
+    font-size: 11pt;
+}
+
+header {
+    margin-bottom: 2cm;
+}
+
+header h1 {
+    font-size: 16pt;
+}
+
+header span {
+    font-size: 10pt;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 11pt;
+}
+
+a {
+    text-decoration: none; 
+    color: inherit;
+}
+
+.titleruler {
+    border: 3px solid cyan;
+    margin-left: 0;
+    width: 1in;
+}
+
+.employer {
+    margin-bottom: 0.5cm;
+}
+
+.placetime {
+    margin-bottom: 1cm;
+    text-align: right;
+}
+
+.subject {
+    font-weight: bold;
+    margin-bottom: 1cm;
+}
+
+.salutation {
+    margin-bottom: 0.8cm;
+}
+
+.closing {
+    margin: 0.8cm 0;
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Anschreiben</title>
+        <link href="coverletter.css" rel="stylesheet">
+    </head>
+<body>
+    <header>
+        <h1>$NAME</h1>
+        <hr class="titleruler">
+        <div>${ADDRESS_STREET}, ${ADDRESS_CITY}</div>
+        <div>
+            <a href="mailto:${EMAIL}">${EMAIL}</a> &bull;
+            ${PHONE}
+        </div>
+        <div><a href="http://${URL}">${URL}</a></div>
+    </header>
+    <main>
+        <div class="employer">
+            <div id="company">Firma</div>
+            <div id="name">Name</div>
+            <div id="street">Strasse</div>
+            <div id="city">Stadt</div>
+        </div>
+        <div class="placetime" id="placetime">
+            Ort, Datum
+        </div>
+        <div class="subject" id="subject">
+            Betreff
+        </div>
+        <p class="salutation" id="salutation">Anrede</p>
+        <div class="applicationtext" id="applicationtext">
+        </div>
+        <p  class="closing" id="closing">Beste Grüße</p>
+        <p id="signature">Unterschrift</p>
+    </main>
+</body>
+</html>

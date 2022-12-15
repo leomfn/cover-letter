@@ -1,0 +1,5 @@
+*.json
+*.pdf
+.env
+print.html
+*.pyc
