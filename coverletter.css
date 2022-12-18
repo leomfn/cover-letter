@@ -34,6 +34,7 @@ a {
 
 .employer {
     margin-bottom: 0;
+    width: 8cm;
 }
 
 .placetime {
@@ -52,4 +53,14 @@ a {
 
 .closing {
     margin: 0.8cm 0;
+}
+
+.signature {
+    text-align: left;
+    width: 4cm;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
