@@ -1,0 +1,17 @@
+{
+    "employer": {
+        "company": "Company name",
+        "name": "Mr Firstname Lastname",
+        "street": "Streetname 123",
+        "city": "01234 Cityname"
+    },
+    "placetime": "Place, 01.01.2023",
+    "subject": "Application for job XYZ",
+    "salutation": "Dear XYZ,",
+    "applicationtext": [
+        "First paragraph.",
+        "Second paragraph.",
+        "Third paragraph.",
+        "Last paragraph."
+    ]
+}

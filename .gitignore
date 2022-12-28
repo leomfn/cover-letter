@@ -3,3 +3,4 @@
 .env
 print.html
 *.pyc
+!*example*
