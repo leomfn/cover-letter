@@ -52,12 +52,12 @@ a {
 }
 
 .closing {
-    margin: 0.8cm 0;
+    margin: 0.8cm 0 0.3cm;
 }
 
 .signature {
     text-align: left;
-    width: 4cm;
+    width: 3cm;
 }
 
 img {
